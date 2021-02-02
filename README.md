@@ -1,4 +1,5 @@
-## This project is a frontend interface of Whatsapp web  
+## Whatsapp web  
+### Frontend interface built with React  
 Allows sending ping-pong messages  
 searching contact feature implemented
 
